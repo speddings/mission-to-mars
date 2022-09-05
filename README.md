@@ -16,7 +16,7 @@ The purpose of this analysis is to create a web app that displays information fr
    4. MongoDB
    5. HTML5
    6. Bootstrap 3
-   7. 
+
 ## Results and Summary
 #### **App Details**
 
